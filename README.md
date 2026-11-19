@@ -170,3 +170,7 @@ Esta es mi primera práctica utilizando Git y GitHub para aprender a gestionar v
 ## Práctica de ramas
 
 En esta actividad aprendí a crear una rama en Git para trabajar con cambios independientes y posteriormente fusionarlos con la rama principal.
+
+## Mi experiencia utilizando Git y GitHub
+
+Durante esta práctica aprendí a utilizar los comandos básicos de Git para gestionar los cambios de un proyecto primero configuré, cloné un repositorio y revisé su historial después modifiqué el archivo README.md registré los cambios mediante commits y creé una rama para trabajar de manera independiente finalmente fusioné los cambios con la rama principal y subí el proyecto a mi repositorio de GitHub esta actividad me ayudó a comprender mejor el control de versiones y su importancia en el desarrollo de software.
