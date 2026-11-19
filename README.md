@@ -166,3 +166,7 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mej
 Nombre: Gabriel Diaz Arias
 
 Esta es mi primera práctica utilizando Git y GitHub para aprender a gestionar versiones de un proyecto.
+
+## Práctica de ramas
+
+En esta actividad aprendí a crear una rama en Git para trabajar con cambios independientes y posteriormente fusionarlos con la rama principal.
